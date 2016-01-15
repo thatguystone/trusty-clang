@@ -1,4 +1,4 @@
-trusty-clang (1:3.6-1~stone1) trusty; urgency=medium
+trusty-clang (1:3.6~stone1) trusty; urgency=medium
 
   * Use clang-3.6
 
