@@ -1,0 +1,14 @@
+Source: trusty-clang
+Maintainer: Andrew Stone <a@stoney.io>
+Section: devel
+Priority: optional
+Standards-Version: 3.9.6
+
+Package: clang
+Architecture: any
+Multi-Arch: same
+Depends:
+	clang-3.6
+Description: Upgrade to latest version of clang/clang++
+	Meta package that pulls the latest version of clang/clang++ from trusty-
+	updates and makes them the default clang/clang++ compilers.

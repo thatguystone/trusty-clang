@@ -1,0 +1,4 @@
+This metapackage provides clang-3.6. By default, it symlinks over /usr/bin/clang and /usr/bin/clang++.
+
+It pulls clang-3.6 from:
+	deb http://us.archive.ubuntu.com/ubuntu/ trusty-updates main restricted universe multiverse
